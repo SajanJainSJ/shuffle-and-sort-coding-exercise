@@ -39,9 +39,11 @@ Please [CLICK HERE](https://www.google.com) to view the Demo of the project.
 ## Screenshots
 
 - **Desktop View - 960px**
+-------------------------------------------------------------------------------------------------------------------------------------------
 ![Desktop View - 960px](https://raw.githubusercontent.com/SajanJainSJ/shuffle-and-sort-coding-exercise/main/desktop-view-screenshot.png)
 
 - **Mobile View - 375px**
+-------------------------------------------------------------------------------------------------------------------------------------------
 ![Mobile View - 375px](https://raw.githubusercontent.com/SajanJainSJ/shuffle-and-sort-coding-exercise/main/mobile-view-screenshot.png)
 
 
