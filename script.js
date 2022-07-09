@@ -13,7 +13,6 @@ function sortCards() {
   let numberedElementNodes = [];
   for (i in numberedList) {
     if (numberedList[i].nodeType == 1) {
-      // get rid of the whitespace text nodes
       numberedElementNodes.push(numberedList[i]);
     }
   }

@@ -39,24 +39,19 @@ h1 {
   color: white;
 }
 
-.card-1,
-.card-8 {
+.card-1, .card-8 {
   background: #6f98a8;
 }
 
-.card-2,
-.card-4 {
+.card-2, .card-4 {
   background: #2b8ead;
 }
 
-.card-3,
-.card-5,
-.card-9 {
+.card-3, .card-5, .card-9 {
   background: #2f454e;
 }
 
-.card-6,
-.card-7 {
+.card-6, .card-7 {
   background: #bfbfbf;
 }
 
@@ -131,24 +126,19 @@ footer {
     margin: 10px 40px;
   }
 
-  .card-1,
-  .card-8 {
+  .card-1, .card-8 {
     border-left: 17px solid #6f98a8;
   }
 
-  .card-2,
-  .card-4 {
+  .card-2, .card-4 {
     border-left: 17px solid #2b8ead;
   }
 
-  .card-3,
-  .card-5,
-  .card-9 {
+  .card-3, .card-5, .card-9 {
     border-left: 17px solid #2f454e;
   }
 
-  .card-6,
-  .card-7 {
+  .card-6, .card-7 {
     border-left: 17px solid #bfbfbf;
   }
 
