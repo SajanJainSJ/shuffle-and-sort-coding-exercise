@@ -33,7 +33,7 @@ This project contains a page which consists of 9 numbered cards which can be man
 
 ## Demo
 
-Please [CLICK HERE](https://sajanjainsj.github.io/shuffle-and-sort-coding-exercise/){:target="_blank" rel="noopener"} to view the Demo of the project.
+Please [CLICK HERE](https://sajanjainsj.github.io/shuffle-and-sort-coding-exercise/) to view the Demo of the project.
 
 
 ## Screenshots
