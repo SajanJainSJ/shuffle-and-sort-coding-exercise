@@ -1,0 +1,159 @@
+body {
+  font-family: sans-serif;
+  margin: 0px;
+}
+
+header {
+  text-align: center;
+  padding: 10px 0px;
+}
+
+h1 {
+  font-weight: 250;
+  margin: 1px;
+}
+
+.container-background {
+  background: #efefef;
+  border-top: 5px solid #bfbfbf;
+}
+
+.cards-buttons-container {
+  display: flex;
+  width: 100%;
+  flex-direction: row-reverse;
+}
+
+.numbered-cards {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  width: 100%;
+}
+
+.card {
+  min-height: 165px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 100px;
+  color: white;
+}
+
+.card-1,
+.card-8 {
+  background: #6f98a8;
+}
+
+.card-2,
+.card-4 {
+  background: #2b8ead;
+}
+
+.card-3,
+.card-5,
+.card-9 {
+  background: #2f454e;
+}
+
+.card-6,
+.card-7 {
+  background: #bfbfbf;
+}
+
+button {
+  display: block;
+  background: #72c3dc;
+  color: #ffffff;
+  width: 240px;
+  height: 50px;
+  margin: 30px 40px;
+  padding: 10px;
+  border: 1px solid #c4c4c4;
+  border-radius: 10px;
+  box-shadow: 0px 5px 0px #2b8ead;
+  font-size: 16px;
+}
+
+button:active {
+  top: 3px;
+  position: relative;
+  transition: All 300ms ease;
+}
+
+footer {
+  padding: 5px;
+  text-align: center;
+  font-size: 15px;
+  font-style: italic;
+}
+
+@media screen and (min-width: 360px) and (max-width: 1000px) {
+  header {
+    background: #333333;
+  }
+
+  h1 {
+    padding-top: 12px;
+    color: #ffffff;
+    height: 60px;
+    font-size: 50px;
+  }
+
+  .container-background {
+    background: none;
+    width: 100%;
+    border-top: 0px solid #bfbfbf;
+  }
+
+  .cards-buttons-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  button {
+    display: inline-block;
+    margin: 10px;
+    width: 170px;
+    height: 90px;
+    font-size: 30px;
+  }
+
+  .numbered-cards {
+    display: grid;
+    grid-template-columns: auto;
+  }
+
+  .card {
+    min-height: 100px;
+    color: #000000;
+    font-size: 55px;
+    background: #efefef;
+    margin: 10px 40px;
+  }
+
+  .card-1,
+  .card-8 {
+    border-left: 17px solid #6f98a8;
+  }
+
+  .card-2,
+  .card-4 {
+    border-left: 17px solid #2b8ead;
+  }
+
+  .card-3,
+  .card-5,
+  .card-9 {
+    border-left: 17px solid #2f454e;
+  }
+
+  .card-6,
+  .card-7 {
+    border-left: 17px solid #bfbfbf;
+  }
+
+  footer {
+    font-size: 30px;
+    font-style: italic;
+  }
+}
