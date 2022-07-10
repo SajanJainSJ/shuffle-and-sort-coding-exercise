@@ -1,3 +1,4 @@
+/* CSS Styles for Desktop View */
 body {
   font-family: sans-serif;
   margin: 0px;
@@ -82,6 +83,7 @@ footer {
   font-style: italic;
 }
 
+/* CSS Styles for Mobile Device View */
 @media screen and (min-width: 360px) and (max-width: 1000px) {
   header {
     background: #333333;
