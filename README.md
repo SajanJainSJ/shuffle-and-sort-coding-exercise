@@ -40,11 +40,11 @@ Please [CLICK HERE](https://sajanjainsj.github.io/shuffle-and-sort-coding-exerci
 
 - **Desktop View - 960px**
 -------------------------------------------------------------------------------------------------------------------------------------------
-![Desktop View - 960px](https://raw.githubusercontent.com/SajanJainSJ/shuffle-and-sort-coding-exercise/main/desktop-view-screenshot.png)
+![Desktop View - 960px](https://raw.githubusercontent.com/SajanJainSJ/shuffle-and-sort-coding-exercise/main/images/desktop-view-screenshot.png)
 
 - **Mobile View - 375px**
 -------------------------------------------------------------------------------------------------------------------------------------------
-![Mobile View - 375px](https://raw.githubusercontent.com/SajanJainSJ/shuffle-and-sort-coding-exercise/main/mobile-view-screenshot.png)
+![Mobile View - 375px](https://raw.githubusercontent.com/SajanJainSJ/shuffle-and-sort-coding-exercise/main/images/mobile-view-screenshot.png)
 
 
 
